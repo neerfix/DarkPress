@@ -1,0 +1,152 @@
+body, .wp-core-ui .attachment-preview{
+    background-color: #10161E !important;
+}
+
+/* MENU */
+.SwitchDM.SwitchOn a{
+    font-weight: bold !important;
+    color: #00b9eb !important;
+}
+
+.SwitchDM.SwitchOn a:before{
+    color: #00b9eb !important;
+    content: "\f100";
+    top: 2px;
+}
+
+/* TEXT BLACK */
+.components-form-token-field__remove-token.components-icon-button{
+    color: #1c1c1c !important;
+}
+/* TEXT WHITE */
+h1,h2,h3, .widefat tfoot tr td, .widefat tfoot tr th, .widefat thead tr td, .widefat thead tr th, .wrap .add-new-h2, .wrap .add-new-h2:active, .wrap .page-title-action, .wrap .page-title-action:active, .components-icon-button:not(:disabled):not([aria-disabled=true]):not(.is-default):hover, .components-panel__body-toggle.components-button, span.menu-item-title, #nav-menu-header .menu-name-label, #customize-theme-controls .control-panel-themes>.accordion-section-title, #customize-theme-controls .control-panel-themes>.accordion-section-title:hover, .customize-section-title h3, h3.customize-section-title, .theme-overlay .theme-name,  .filter-links li>a:hover , #plugin-information .review-title-section h4, #plugin-information .fyi strong, .editor-post-title__block .editor-post-title__input, .wp-full-overlay-footer .devices button.active:before, .wp-full-overlay-footer .devices button:hover:before, #customize-controls .customize-info .accordion-section-title, .theme-overlay .theme-tags span, .community-events li, .ac_match, .subsubsub a.current, .subsubsub a .count, .subsubsub a.current .count, .plugins tr, .plugins .active td, .plugins .active th, .form-table th, .form-wrap label, .importer-title, .contextual-help-tabs .active a, #screen-meta-links .show-settings:hover, .wp-core-ui .button-secondary:focus, .wp-core-ui .button-secondary:hover, .wp-core-ui .button.focus, .wp-core-ui .button.hover, .wp-core-ui .button:focus, .wp-core-ui .button:hover{
+    color: white !important;
+}
+
+/* TEXT SEMI-WHITE */
+#future-posts ul span, #published-posts ul span, .welcome-panel .welcome-icon, kbd.edit-post-keyboard-shortcut-help__shortcut-key, dd.edit-post-keyboard-shortcut-help__shortcut-description, .media-router .active, .media-router .active:hover, .components-form-token-field__token, .components-form-token-field__suggestion, .components-form-token-field__input-container input[type=text].components-form-token-field__input, label.components-checkbox-control__label, .components-menu-item__button.components-icon-button:focus:not(:disabled):not([aria-disabled=true]), .components-menu-item__button:focus:not(:disabled):not([aria-disabled=true]), .components-menu-item__button.components-icon-button:hover:not(:disabled):not([aria-disabled=true]), .components-menu-item__button:hover:not(:disabled):not([aria-disabled=true]), .components-menu-item__button, .components-menu-item__button.components-icon-button, .edit-post-sidebar__panel-tab, .components-panel, .block-editor-block-types-list__item-icon, .block-editor-block-types-list__item, .categorydiv div.tabs-panel, .customlinkdiv div.tabs-panel, .posttypediv div.tabs-panel, .taxonomydiv div.tabs-panel, .wp-tab-panel, .manage-menus, .nav-menus-php #post-body, .inactive-sidebar .description, .widget-holder .description, #available-widgets .widget-description, #widgets-right a.widget-control-edit, .in-widget-title, #customize-outer-theme-controls .accordion-section-title, #customize-theme-controls .accordion-section-title, .wp-admin input[type=file], .upload-plugin .install-help, .upload-theme .install-help, .tablenav .displaying-num, span.tablenav-paging-text, .filter-links li>a, #plugin-information .section, #plugin-information .section p, #plugin-information .fyi, .review-body, #plugin-information-tabs a.current, .plugin-card, .plugin-card-bottom,textarea#post-title-0::placeholder, .wp-customizer .menu-item-bar .menu-item-handle, .customize-controls-close, #customize-controls .customize-info .customize-panel-description, #customize-controls .customize-info .customize-section-description, #customize-controls .no-widget-areas-rendered-notice, #customize-outer-theme-controls .customize-info .customize-section-description, span.customize-control-title.customize-section-title-menu_locations-heading, li.customize-control-title.customize-section-title-nav_menus-heading, #customize-outer-theme-controls .accordion-section-content, #customize-theme-controls .accordion-section-content, .customize-panel-back, .customize-section-back, .theme-overlay .theme-header .left, .theme-overlay .theme-header .right:hover, #screen-meta-links .show-settings, .help-tab-content ul li, fieldset, span#utc-time, span#local-time, body p, td, .form-wrap p, p.description, .widefat td, .widefat th, .postbox, .plugins, .plugins td, .plugins th, .widefat ol, .widefat p, .widefat ul, .tablenav .one-page .displaying-num, #footer-thankyou, #wpfooter p, .wp-core-ui .button, .wp-core-ui .button-secondary{
+    color: #c1c1c1;
+}
+
+.filter-links li>a.current, .wp-full-overlay .collapse-sidebar-arrow:before, .wp-full-overlay-footer .devices button:focus:before{
+    color: #4094FB;
+}
+
+/* BACKGROUND OPAQUE */
+.theme-overlay .theme-backdrop{
+    background: rgba(33,33,33,.8);
+}
+
+.components-modal__screen-overlay{
+    background-color: hsla(0, 0%, 15%, 0.4);
+}
+
+/* BACKGROUND DARK-DARK */
+.welcome-panel, .media-router .active, .media-router>a.active:last-child, .media-frame-content, .components-modal__frame, .components-panel, .components-popover__content, .components-toolbar, .edit-post-header, .control-section .accordion-section-title, .customize-pane-child .accordion-section-title, .accordion-section-content, .manage-menus, .nav-menus-php #post-body, .widget-inside, #plugin-information-content, #plugin-information, .plugin-card, .wp-customizer .menu-item-settings, .customize-controls-close, .wp-full-overlay-footer .devices button:focus, .wp-full-overlay-footer .devices button:hover, .expanded .wp-full-overlay-footer, #customize-controls .customize-info .customize-panel-description, #customize-controls .customize-info .customize-section-description, #customize-controls .no-widget-areas-rendered-notice, #customize-outer-theme-controls .customize-info .customize-section-description, .customize-section-title, .customize-panel-back, .customize-section-back, #customize-controls .customize-info .accordion-section-title, #customize-outer-theme-controls .accordion-section-title, #customize-theme-controls .accordion-section-title, #customize-theme-controls .control-panel-themes>.accordion-section-title, #customize-theme-controls .control-panel-themes>.accordion-section-title:hover, .theme-overlay .theme-wrap, .theme-browser .theme .theme-name, .card, .wp-filter, .comment-ays, .feature-filter, .imgedit-group, .popular-tags, .stuffbox, .widgets-holder-wrap, .wp-editor-container, p.popular-tags, table.widefat, .postbox,.plugins tr, .plugins .active td, .plugins .active th {
+    background: #1b1b1b;
+}
+
+.plugins tr.active+tr.inactive td, .plugins tr.active+tr.inactive th, .plugins tr.active.plugin-update-tr+tr.inactive td, .plugins tr.active.plugin-update-tr+tr.inactive th{
+    box-shadow: inset 0 1px 0 rgba(0,0,0,.02), inset 0 -1px 0 #1b1b1b;
+}
+/* BACKGROUND DARK-MEDIUM */
+.media-modal-content, .media-sidebar, .edit-post-sidebar, .components-modal__header, .components-panel__header.edit-post-sidebar-header, #nav-menu-footer, #nav-menu-header, .categorydiv div.tabs-panel, .customlinkdiv div.tabs-panel, .posttypediv div.tabs-panel, .taxonomydiv div.tabs-panel, .wp-tab-panel, #nav-menu-header, .menu-item-settings, .widget .widget-top, #plugin-information-footer, #plugin-information .fyi,#plugin-information-tabs, #plugin-information-title, .plugin-card-bottom, .wp-full-overlay-footer .devices, .wp-full-overlay-sidebar, #customize-sidebar-outer-content, .wp-full-overlay-sidebar .wp-full-overlay-header, .theme-overlay .theme-actions, .theme-overlay .theme-header .close:focus, .theme-overlay .theme-header .close:hover, .theme-overlay .theme-header .left:focus, .theme-overlay .theme-header .left:hover, .theme-overlay .theme-header .right:focus, .theme-overlay .theme-header .right:hover,.theme-overlay .theme-header .left, .theme-overlay .theme-header .right:hover, .theme-browser .theme .theme-actions, #screen-meta, .alternate, .striped>tbody>:nth-child(odd), ul.striped>:nth-child(odd){
+    background: #252525;
+}
+
+/* BACKGROUND DARK-LIGHT */
+.components-icon-button:not(:disabled):not([aria-disabled=true]):not(.is-default):hover, .components-form-token-field__remove-token.components-icon-button, .components-form-token-field__token-text, .edit-post-manage-blocks-modal__category-title, .components-menu-item__button.components-icon-button:hover:not(:disabled):not([aria-disabled=true]), .components-menu-item__button:hover:not(:disabled):not([aria-disabled=true]), .components-button:focus:enabled, .components-panel__body>.components-panel__body-title:hover, .edit-post-last-revision__panel>.components-icon-button:not(:disabled):not([aria-disabled=true]):not(.is-default):hover, .block-editor-block-types-list__item:not(:disabled):hover:before, .js .control-section .accordion-section-title:focus, .js .control-section .accordion-section-title:hover, .js .control-section.open .accordion-section-title, .js .control-section:hover .accordion-section-title, .menu-item-handle, .upload-plugin .wp-upload-form, .upload-theme .wp-upload-form, #plugin-information-tabs a.current, .wp-customizer .menu-item-bar .menu-item-handle, .customize-panel-back:focus, .customize-panel-back:hover, .customize-section-back:focus, .customize-section-back:hover, .customize-controls-close:focus, .customize-controls-close:hover, .customize-controls-preview-toggle:focus, .customize-controls-preview-toggle:hover, #customize-controls .cannot-expand:hover .accordion-section-title, #customize-controls .panel-meta.customize-info .accordion-section-title:hover, #customize-controls .control-section .accordion-section-title:focus, #customize-controls .control-section .accordion-section-title:hover, #customize-controls .control-section.open .accordion-section-title, #customize-controls .control-section:hover>.accordion-section-title, .contextual-help-tabs .active a, #contextual-help-back, #activity-widget #the-comment-list .comment-item, .community-events ul, .plugins .inactive, .wp-core-ui .button:hover, .wp-core-ui .button-secondary {
+    background-color: #32373c;
+}
+
+/* BORDER */
+kbd.edit-post-keyboard-shortcut-help__shortcut-key, .welcome-panel, .media-router .active, .media-router>a.active:last-child, .components-modal__frame, .components-panel, .components-popover:not(.is-without-arrow):not(.is-mobile):before, .components-popover__content, .components-popover__content, .components-toolbar, .categorydiv div.tabs-panel, .customlinkdiv div.tabs-panel, .posttypediv div.tabs-panel, .taxonomydiv div.tabs-panel, .wp-tab-panel, .menu-item-settings, .upload-plugin .wp-upload-form, .upload-theme .wp-upload-form, #plugin-information-tabs a.current, .plugin-card, .wp-customizer .menu-item-settings, .theme-overlay .screenshot, .theme-browser .theme,.wp-core-ui .button:hover, .wp-core-ui .button-secondary, #contextual-help-back, .contextual-help-tabs .active a, #screen-meta, .card, .wp-filter, .postbox ,#menu-management .menu-edit, #menu-settings-column .accordion-container, .comment-ays, .feature-filter, .imgedit-group, .manage-menus, .popular-tags, .stuffbox, .widget-inside, .widget-top, .widgets-holder-wrap, .wp-editor-container, p.popular-tags, table.widefat{
+    border-color: #32373c;
+}
+
+.components-popover:not(.is-without-arrow):not(.is-mobile):after, .menu-item-bar .menu-item-handle{
+    border-color: #1b1b1b;
+}
+
+.components-modal__header, .components-panel__header, .components-panel__body, .edit-post-header, .accordion-section, .control-section.open .accordion-section-title, .nav-menus-php #post-body, #nav-menu-header, #plugin-information-tabs a.current, #plugin-information-tabs, #customize-theme-controls .control-section:last-of-type.open, #customize-theme-controls .control-section:last-of-type>.accordion-section-title, #customize-theme-controls .control-section.open, #customize-theme-controls #accordion-section-menu_locations>.accordion-section-title, .customize-section-title, #customize-controls .customize-info, #customize-outer-theme-controls .accordion-section-title, #customize-theme-controls .accordion-section-title, #customize-theme-controls .control-panel-themes>.accordion-section-title, #customize-theme-controls .control-panel-themes>.accordion-section-title:hover, #customize-header-actions, .theme-overlay .theme-header, .activity-block, .community-events .activity-block.last,.postbox .hndle, .stuffbox .hndle,.widefat thead td, .widefat thead th, .plugins .active th, .plugins .active td{
+    border-bottom-color: #32373c;
+}
+
+.media-frame input:disabled, .media-frame input[readonly], .media-frame textarea:disabled, .media-frame textarea[readonly], .media-frame-toolbar .media-toolbar, .media-frame-content, .components-panel__body, .nav-menus-php #post-body, .nav-menus-php #post-body, #plugin-information-footer, .plugin-card-bottom, .customize-controls-close, .expanded .wp-full-overlay-footer, #customize-controls .customize-info .customize-panel-description, #customize-controls .customize-info .customize-section-description, #customize-controls .no-widget-areas-rendered-notice, #customize-outer-theme-controls .customize-info .customize-section-description, #customize-theme-controls .control-panel-content:not(.control-panel-nav_menus) .control-section:nth-child(2), #customize-theme-controls .control-panel-nav_menus .control-section-nav_menu, #customize-theme-controls .control-section-nav_menu_locations .accordion-section-title, #customize-theme-controls .control-panel-themes>.accordion-section-title, #customize-theme-controls .control-panel-themes>.accordion-section-title:hover, .theme-overlay .theme-actions, .community-events li:first-child, #dashboard_activity .subsubsub, .community-events-footer,.widefat tfoot td, .widefat tfoot th {
+    border-top-color: #32373c;
+}
+
+.customize-panel-back, .customize-section-back, .customize-controls-close, .wp-full-overlay-sidebar, #customize-sidebar-outer-content, .theme-overlay .theme-header .close:focus, .theme-overlay .theme-header .close:hover, .theme-overlay .theme-header .left:focus, .theme-overlay .theme-header .left:hover, .theme-overlay .theme-header .right:focus, .theme-overlay .theme-header .right:hover, .theme-overlay .theme-header .left, .theme-overlay .theme-header .right:hover, .theme-overlay .theme-header .left, .theme-overlay .theme-header .right{
+    border-right-color: #32373c;
+}
+
+.media-sidebar, .edit-post-sidebar, #plugin-information .fyi, .customize-panel-back, .customize-section-back, #customize-outer-theme-controls .accordion-section-title, #customize-theme-controls .accordion-section-title, .accordion-section-title, #customize-sidebar-outer-content, .theme-overlay .theme-header .close:focus, .theme-overlay .theme-header .close:hover, .theme-overlay .theme-header .left:focus, .theme-overlay .theme-header .left:hover, .theme-overlay .theme-header .right:focus, .theme-overlay .theme-header .right:hover, .theme-overlay .theme-header .close{
+    border-left-color: #32373c;
+}
+
+.wp-full-overlay-footer .devices button.active{
+    border-bottom-color: white;
+}
+
+.customize-panel-back:focus, .customize-panel-back:hover, .customize-section-back:focus, .customize-section-back:hover, .wp-full-overlay-footer .devices button.active:hover, .wp-full-overlay-footer .devices button:focus{
+    border-left-color: #4094FB;
+}
+.customize-controls-close:focus, .customize-controls-close:hover, .customize-controls-preview-toggle:focus, .customize-controls-preview-toggle:hover{
+    border-top-color: #4094FB;
+}
+
+.filter-links .current{
+    border-bottom-color: #4094FB;
+}
+/* BORDER ACTIVE PLUGIN */
+#customize-controls .control-section .accordion-section-title:focus, #customize-controls .control-section.open .accordion-section-title, #customize-controls .control-section:hover>.accordion-section-title, .plugin-update-tr.active td, .plugins .active th.check-column, .contextual-help-tabs .active a {
+    border-left: 4px solid #4094FB;
+}
+.edit-post-sidebar__panel-tab.is-active{
+    box-shadow: inset 0 -3px #4094FB;
+}
+
+.components-icon-button:not(:disabled):not([aria-disabled=true]):not(.is-default):hover{
+    box-shadow: none;
+}
+
+.wp-full-overlay-footer .devices{
+    box-shadow: -20px 0 10px -5px #1c1c1c;
+}
+
+/* FORM / INPUT */
+
+input[type=checkbox], input[type=color], input[type=date], input[type=datetime-local], input[type=datetime], input[type=email], input[type=month], input[type=number], input[type=password], input[type=radio], input[type=search], input[type=tel], input[type=text], input[type=time], input[type=url], input[type=week], select, textarea{
+    border: 1px solid #1b1b1b;
+    border-radius: 4px;
+    box-shadow: inset 0 1px 2px rgba(0,0,0,.07);
+    background-color: #32373c;
+    color: #c1c1c1;
+    outline: 0;
+    transition: 50ms border-color ease-in-out;
+}
+
+.components-form-token-field__input-container{
+    border-color: #32373c;
+    background-color: #252525;
+}
+
+/* BUTTON */
+
+.theme-install-overlay .wp-full-overlay-header .button, .theme-browser .theme .theme-actions .button, .theme-browser .theme.active .theme-actions .button-primary, a#plugin_install_from_iframe, input#submit, .wp-core-ui .welcome-panel .button.button-hero, input#save-post,.wrap .add-new-h2, .wrap .add-new-h2:active, .wrap .page-title-action, .wrap .page-title-action:active{
+    background-color: #4094FB !important;
+}
+
+.wrap .add-new-h2, .wrap .add-new-h2:active, .wrap .page-title-action, .wrap .page-title-action:active, .media-frame input[type=email], .media-frame input[type=number], .media-frame input[type=password], .media-frame input[type=search], .media-frame input[type=text], .media-frame input[type=url], .media-frame select, .media-frame textarea, #contextual-help-link-wrap, #screen-options-link-wrap, .wp-core-ui .button, .wp-core-ui .button-secondary, span.tablenav-pages-navspan.button.disabled{
+    border-color: #32373c !important;
+}
+
+#screen-meta-links .show-settings, .wp-core-ui .button, .wp-core-ui .button-secondary, span.tablenav-pages-navspan.button.disabled{
+    background: #252525 !important;
+    box-shadow: 0 1px 0 #333 !important;
+}
+
+span.tablenav-pages-navspan.button.disabled{
+    color: #797c7e !important;
+    text-shadow: none !important;
+}
